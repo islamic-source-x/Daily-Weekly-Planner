@@ -23,6 +23,12 @@ Dear brothers and sisters, I am very pleased to present to you our Daily and Wee
 - Prepared with scholarly and scientific data, lived experiences, and real-life knowledge from the guide trilogy.
 - Completely free and customizable.
 
+Additional Notes:
+- To make it easier to wake up for Tahajjud without an alarm, you can drink 3 glasses of water just before going to bed.
+- Since Friday is originally set as a rest day in the program, you can skip the walking session on Fridays and get a little more sleep.
+- The walking session after Asr is optional.
+- Additionally, Surah Al-Jumu'ah can be recited on Fridays.
+
 Our planner has been prepared with the free and open-source GIMP program. If you wish, you can download the project files of the planner and customize and edit anything you want. You can also access images related to example usage scenarios of our planner from here.
 
 If we have been correct, it is only from Allah. If we have erred, it is only from us. Insha'Allah, it has been beneficial.  

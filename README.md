@@ -1,6 +1,6 @@
 # İslamic Source - Daily & Weekly Planner
 
-<img width="750" alt="1" src="https://github.com/user-attachments/assets/c4352db5-ff66-4f43-aa91-8b49d257f1a4" />
+<img width="750" alt="myProgramKapak" src="https://github.com/user-attachments/assets/e242d154-bfb8-49c2-b3a4-58e67a020e48" />
 
 *As-salamu alaykum wa rahmatullahi wa barakatuh*  
 Bismillah.
@@ -35,7 +35,10 @@ If we have been correct, it is only from Allah. If we have erred, it is only fro
 With the hope that it will be a means for good. We await your prayers.  
 *As-salamu alaykum.*
 
-
+<img width="750" alt="a" src="https://github.com/user-attachments/assets/b63f5603-925b-4e60-ac02-fbba7a73220a" />
+<img width="750" alt="b" src="https://github.com/user-attachments/assets/c65026a5-bb68-4715-a67f-4c664f48be93" />
+<img width="750" alt="c" src="https://github.com/user-attachments/assets/afc961b3-2610-4fec-8197-53609b586cec" />
+<img width="750" alt="d" src="https://github.com/user-attachments/assets/f2bb2c09-b459-4645-a0d8-b0758004acc8" />
 <img width="750" alt="2" src="https://github.com/user-attachments/assets/9bf47907-046a-4938-ad2b-455aa37ece72" />
 <img width="750" alt="3" src="https://github.com/user-attachments/assets/3481a509-9ce6-4d14-a89d-1e81dced92c9" />
 <img width="500" alt="4" src="https://github.com/user-attachments/assets/db6f8075-9441-4b8e-b09d-9d978abcb861" />

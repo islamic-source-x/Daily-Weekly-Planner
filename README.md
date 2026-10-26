@@ -25,6 +25,7 @@ Dear brothers and sisters, I am very pleased to present to you our Daily and Wee
 
 Additional Notes:
 - To make it easier to wake up for Tahajjud without an alarm, you can drink 3 glasses of water just before going to bed.
+- If you find it difficult to wake up twice during the night (for Tahajjud and Fajr prayers), you can wake up 10–20 minutes before the start of Fajr time to perform Tahajjud, and then perform the Fajr prayer once Fajr time begins.
 - Since Friday is originally set as a rest day in the program, you can skip the walking session on Fridays and get a little more sleep.
 - The walking session after Asr is optional.
 - Additionally, Surah Al-Jumu'ah can be recited on Fridays.
